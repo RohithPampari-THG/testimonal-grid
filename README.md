@@ -4,7 +4,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/RohithPampari-THG/testimonal-grid](https://github.com/RohithPampari-THG/testimonal-grid)
+- Live Site URL: [https://rohithpampari-thg.github.io/testimonal-grid/](https://rohithpampari-thg.github.io/testimonal-grid/)
 
 
